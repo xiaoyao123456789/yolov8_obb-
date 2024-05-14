@@ -1,1 +1,1 @@
-# yolov8_obb-
+# yolov8obb-converter脚本实现了xml2yolo的训练格式及数据分割
